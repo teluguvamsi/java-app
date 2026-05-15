@@ -15,7 +15,7 @@ pipeline {
             steps {
 
                 git branch: 'main',
-                url: 'git@github.com:teluguvamsi/java-app.git'
+                url: 'https://github.com/teluguvamsi/java-app.git'
             }
         }
 
